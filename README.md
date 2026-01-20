@@ -37,7 +37,8 @@ Sistema web desarrollado en PHP para la gestión de un negocio de suministros te
 Incluye autenticación, control de roles, CRUD completo y facturación básica.
 
 Repositorio:  
-https://github.com/mateo-gonzalez-dev/mg_suministros
+https://github.com/mateo-gonzalez-dev/M-SISTEC
+
 
 ---
 
