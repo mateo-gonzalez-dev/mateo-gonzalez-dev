@@ -1,16 +1,59 @@
-## Hi there 👋
+# Mateo González
 
-<!--
-**mateo-gonzalez-dev/mateo-gonzalez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Practicante de Desarrollo de Software, con enfoque en backend y fundamentos sólidos en PHP y bases de datos relacionales.  
+Actualmente en etapa productiva del SENA, en búsqueda de una oportunidad de práctica profesional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Perfil
+
+- Desarrollo backend con PHP (procedimental)
+- Manejo de MySQL / MariaDB
+- Control de sesiones y roles de usuario
+- Desarrollo de sistemas CRUD
+- Enfoque en lógica, estructura y buenas prácticas
+- En proceso de crecimiento hacia perfil Junior
+
+---
+
+## Tecnologías
+
+- PHP
+- MySQL / MariaDB
+- HTML5
+- CSS3
+- JavaScript básico
+- Git
+- GitHub
+- XAMPP
+
+---
+
+## Proyecto destacado
+
+### MG Suministros – Sistema de Gestión en PHP
+
+Sistema web desarrollado en PHP para la gestión de un negocio de suministros tecnológicos.  
+Incluye autenticación, control de roles, CRUD completo y facturación básica.
+
+Repositorio:  
+https://github.com/mateo-gonzalez-dev/mg_suministros
+
+---
+
+## Formación
+
+SENA  
+Programa de Formación en Desarrollo de Software  
+Etapa productiva
+
+---
+
+## Contacto
+
+Correo: jmateo.gonzalez.it@gmail.com  
+Ubicación: Colombia
+
+---
+
+Perfil en constante aprendizaje y mejora.
