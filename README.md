@@ -19,6 +19,7 @@ Actualmente en etapa productiva del SENA, en búsqueda de una oportunidad de pr�
 ## Tecnologías
 
 - PHP
+- Python basico
 - MySQL / MariaDB
 - HTML5
 - CSS3
